@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/448999633.svg)](https://zenodo.org/badge/latestdoi/448999633)
+
 This is the code for the publication:
 
 V. Liakoni *, M. Lehmann *, A. Modirshanechi, J. Brea, A. Lutti, W. Gerstner ** , K. Preuschoff **
